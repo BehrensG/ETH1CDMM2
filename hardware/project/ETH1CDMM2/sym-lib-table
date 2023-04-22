@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ETH1CDMM2")(type "Legacy")(uri "/home/grzegorz/git/ETH1CDMM2/hardware/lib/sch/ETH1CDMM2.lib")(options "")(descr ""))
+  (lib (name "ETH1CDMM2-rescue")(type "KiCad")(uri "${KIPRJMOD}/ETH1CDMM2-rescue.kicad_sym")(options "")(descr ""))
+)
