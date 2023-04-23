@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ETH1CDMM2")(type "KiCad")(uri "/home/grzegorz/git/ETH1CDMM2/hardware/lib/pcb/ETH1CDMM2.pretty")(options "")(descr ""))
+)
