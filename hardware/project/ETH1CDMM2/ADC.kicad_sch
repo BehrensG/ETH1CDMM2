@@ -3863,7 +3863,7 @@
           (reference "U?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "U205") (unit 1)
+          (reference "U204") (unit 1)
         )
       )
     )
@@ -3891,7 +3891,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0218") (unit 1)
+          (reference "#PWR0216") (unit 1)
         )
       )
     )
@@ -4170,7 +4170,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0241") (unit 1)
+          (reference "#PWR0239") (unit 1)
         )
       )
     )
@@ -4198,7 +4198,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0243") (unit 1)
+          (reference "#PWR0241") (unit 1)
         )
       )
     )
@@ -4238,7 +4238,7 @@
   (symbol (lib_id "Device:C") (at 214.63 87.63 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e3e8f7c)
-    (property "Reference" "C214" (at 214.63 81.2292 90)
+    (property "Reference" "C213" (at 214.63 81.2292 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "23PS222" (at 214.63 83.5406 90)
@@ -4255,7 +4255,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C214") (unit 1)
+          (reference "C213") (unit 1)
         )
       )
     )
@@ -4264,13 +4264,13 @@
   (symbol (lib_id "Device:R") (at 191.77 168.91 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e43326b)
-    (property "Reference" "R210" (at 191.77 163.6522 90)
+    (property "Reference" "R209" (at 191.77 163.6522 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "62/.1%" (at 191.77 165.9636 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 191.77 167.132 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 191.77 167.132 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 191.77 168.91 0)
@@ -4281,7 +4281,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R210") (unit 1)
+          (reference "R209") (unit 1)
         )
       )
     )
@@ -4316,13 +4316,13 @@
   (symbol (lib_id "Device:R") (at 240.03 166.37 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e43cab7)
-    (property "Reference" "R213" (at 241.808 165.2016 0)
+    (property "Reference" "R212" (at 241.808 165.2016 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "6k95/.05%" (at 241.808 167.513 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" (at 238.252 166.37 90)
+    (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 238.252 166.37 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 240.03 166.37 0)
@@ -4333,7 +4333,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R213") (unit 1)
+          (reference "R212") (unit 1)
         )
       )
     )
@@ -4342,7 +4342,7 @@
   (symbol (lib_id "Device:R") (at 284.48 158.75 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e441b0e)
-    (property "Reference" "R220" (at 284.48 153.4922 90)
+    (property "Reference" "R219" (at 284.48 153.4922 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0" (at 284.48 155.8036 90)
@@ -4359,7 +4359,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R220") (unit 1)
+          (reference "R219") (unit 1)
         )
       )
     )
@@ -4368,13 +4368,13 @@
   (symbol (lib_id "Device:R") (at 265.43 180.34 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e451054)
-    (property "Reference" "R216" (at 265.43 175.0822 90)
+    (property "Reference" "R215" (at 265.43 175.0822 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "3k01/.1%" (at 265.43 177.3936 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 265.43 178.562 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 265.43 178.562 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 265.43 180.34 0)
@@ -4385,7 +4385,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R216") (unit 1)
+          (reference "R215") (unit 1)
         )
       )
     )
@@ -4394,13 +4394,13 @@
   (symbol (lib_id "Device:R") (at 265.43 142.24 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e458119)
-    (property "Reference" "R215" (at 265.43 136.9822 90)
+    (property "Reference" "R214" (at 265.43 136.9822 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "3k01/.1%" (at 265.43 139.2936 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 265.43 140.462 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 265.43 140.462 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 265.43 142.24 0)
@@ -4411,7 +4411,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R215") (unit 1)
+          (reference "R214") (unit 1)
         )
       )
     )
@@ -4439,7 +4439,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0233") (unit 1)
+          (reference "#PWR0231") (unit 1)
         )
       )
     )
@@ -4640,7 +4640,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0224") (unit 1)
+          (reference "#PWR0222") (unit 1)
         )
       )
     )
@@ -4756,7 +4756,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0212") (unit 1)
+          (reference "#PWR0210") (unit 1)
         )
       )
     )
@@ -4821,7 +4821,7 @@
   (symbol (lib_id "Device:R") (at 167.64 147.32 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f82e3f8)
-    (property "Reference" "R208" (at 167.64 142.0622 90)
+    (property "Reference" "R207" (at 167.64 142.0622 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0" (at 167.64 144.3736 90)
@@ -4838,7 +4838,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R208") (unit 1)
+          (reference "R207") (unit 1)
         )
       )
     )
@@ -4847,7 +4847,7 @@
   (symbol (lib_id "power:+3.3VP") (at 309.88 48.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f88e174)
-    (property "Reference" "#PWR0244" (at 313.69 49.53 0)
+    (property "Reference" "#PWR0242" (at 313.69 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3VP" (at 310.261 43.8658 0)
@@ -4863,7 +4863,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0244") (unit 1)
+          (reference "#PWR0242") (unit 1)
         )
       )
     )
@@ -4872,7 +4872,7 @@
   (symbol (lib_id "power:+3.3VP") (at 317.5 27.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f88e440)
-    (property "Reference" "#PWR0246" (at 321.31 29.21 0)
+    (property "Reference" "#PWR0244" (at 321.31 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3VP" (at 317.881 23.5458 0)
@@ -4888,7 +4888,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0246") (unit 1)
+          (reference "#PWR0244") (unit 1)
         )
       )
     )
@@ -4897,7 +4897,7 @@
   (symbol (lib_id "power:+3.3VP") (at 327.66 81.28 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f891819)
-    (property "Reference" "#PWR0248" (at 326.39 85.09 0)
+    (property "Reference" "#PWR0246" (at 326.39 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3VP" (at 331.47 81.28 90)
@@ -4913,7 +4913,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0248") (unit 1)
+          (reference "#PWR0246") (unit 1)
         )
       )
     )
@@ -4922,7 +4922,7 @@
   (symbol (lib_id "Transistor_BJT:BC847") (at 127 167.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f8de25d)
-    (property "Reference" "Q203" (at 131.8514 166.4716 0)
+    (property "Reference" "Q201" (at 131.8514 166.4716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC847" (at 131.8514 168.783 0)
@@ -4940,7 +4940,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "Q203") (unit 1)
+          (reference "Q201") (unit 1)
         )
       )
     )
@@ -4955,7 +4955,7 @@
     (property "Value" "4k7/.1%" (at 132.588 121.793 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 129.032 120.65 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 129.032 120.65 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 130.81 120.65 0)
@@ -4975,13 +4975,13 @@
   (symbol (lib_id "Device:R") (at 121.92 138.43 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f9bee32)
-    (property "Reference" "R202" (at 121.92 133.1722 90)
+    (property "Reference" "R203" (at 121.92 133.1722 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "4k7/.1%" (at 121.92 135.4836 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 121.92 136.652 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 121.92 136.652 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 121.92 138.43 0)
@@ -4992,7 +4992,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R202") (unit 1)
+          (reference "R203") (unit 1)
         )
       )
     )
@@ -5001,13 +5001,13 @@
   (symbol (lib_id "Device:D_Zener") (at 130.81 133.35 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f9bfeb3)
-    (property "Reference" "D202" (at 132.8166 132.1816 90)
+    (property "Reference" "D201" (at 132.8166 132.1816 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BZT585B15TQ-13" (at 132.8166 134.493 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-523" (at 130.81 133.35 0)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 130.81 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 130.81 133.35 0)
@@ -5018,7 +5018,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "D202") (unit 1)
+          (reference "D201") (unit 1)
         )
       )
     )
@@ -5046,7 +5046,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0213") (unit 1)
+          (reference "#PWR0211") (unit 1)
         )
       )
     )
@@ -5074,7 +5074,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0214") (unit 1)
+          (reference "#PWR0215") (unit 1)
         )
       )
     )
@@ -5086,7 +5086,7 @@
     (property "Reference" "Q?" (at 130.81 150.749 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MMBTA55" (at 130.81 153.0604 90)
+    (property "Value" "MMBTA55-TP" (at 130.81 153.0604 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (at 132.715 149.86 0)
@@ -5113,13 +5113,13 @@
   (symbol (lib_id "Device:R") (at 142.24 171.45 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005facb920)
-    (property "Reference" "R206" (at 144.018 170.2816 0)
+    (property "Reference" "R205" (at 144.018 170.2816 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "0" (at 144.018 172.593 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 144.018 171.45 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 144.018 171.45 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 142.24 171.45 0)
@@ -5130,7 +5130,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R206") (unit 1)
+          (reference "R205") (unit 1)
         )
       )
     )
@@ -5165,7 +5165,7 @@
           (reference "U?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "U204") (unit 1)
+          (reference "U205") (unit 1)
         )
       )
     )
@@ -5243,7 +5243,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0219") (unit 1)
+          (reference "#PWR0218") (unit 1)
         )
       )
     )
@@ -5327,7 +5327,7 @@
   (symbol (lib_id "Device:C") (at 214.63 99.06 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005fdaf846)
-    (property "Reference" "C215" (at 214.63 92.6592 90)
+    (property "Reference" "C214" (at 214.63 92.6592 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "2n2/SMD" (at 214.63 94.9706 90)
@@ -5344,7 +5344,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C215") (unit 1)
+          (reference "C214") (unit 1)
         )
       )
     )
@@ -5353,7 +5353,7 @@
   (symbol (lib_id "Device:C") (at 87.63 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006003e7cc)
-    (property "Reference" "C202" (at 90.551 265.5316 0)
+    (property "Reference" "C201" (at 90.551 265.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 90.551 267.843 0)
@@ -5370,7 +5370,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C202") (unit 1)
+          (reference "C201") (unit 1)
         )
       )
     )
@@ -5379,7 +5379,7 @@
   (symbol (lib_id "Device:C") (at 99.06 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000600436bf)
-    (property "Reference" "C203" (at 101.981 265.5316 0)
+    (property "Reference" "C202" (at 101.981 265.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 101.981 267.843 0)
@@ -5396,7 +5396,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C203") (unit 1)
+          (reference "C202") (unit 1)
         )
       )
     )
@@ -5405,7 +5405,7 @@
   (symbol (lib_id "Device:C") (at 110.49 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006004396b)
-    (property "Reference" "C204" (at 113.411 265.5316 0)
+    (property "Reference" "C203" (at 113.411 265.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 113.411 267.843 0)
@@ -5422,7 +5422,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C204") (unit 1)
+          (reference "C203") (unit 1)
         )
       )
     )
@@ -5431,7 +5431,7 @@
   (symbol (lib_id "Device:C") (at 121.92 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060044711)
-    (property "Reference" "C205" (at 124.841 265.5316 0)
+    (property "Reference" "C204" (at 124.841 265.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 124.841 267.843 0)
@@ -5448,7 +5448,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C205") (unit 1)
+          (reference "C204") (unit 1)
         )
       )
     )
@@ -5457,7 +5457,7 @@
   (symbol (lib_id "Device:C") (at 133.35 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060044717)
-    (property "Reference" "C206" (at 136.271 265.5316 0)
+    (property "Reference" "C205" (at 136.271 265.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 136.271 267.843 0)
@@ -5474,7 +5474,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C206") (unit 1)
+          (reference "C205") (unit 1)
         )
       )
     )
@@ -5483,7 +5483,7 @@
   (symbol (lib_id "Device:C") (at 144.78 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006004471d)
-    (property "Reference" "C207" (at 147.701 265.5316 0)
+    (property "Reference" "C206" (at 147.701 265.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 147.701 267.843 0)
@@ -5500,7 +5500,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C207") (unit 1)
+          (reference "C206") (unit 1)
         )
       )
     )
@@ -5509,7 +5509,7 @@
   (symbol (lib_id "Device:C") (at 157.48 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060051e8d)
-    (property "Reference" "C208" (at 160.401 265.5316 0)
+    (property "Reference" "C207" (at 160.401 265.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 160.401 267.843 0)
@@ -5526,7 +5526,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C208") (unit 1)
+          (reference "C207") (unit 1)
         )
       )
     )
@@ -5554,7 +5554,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0216") (unit 1)
+          (reference "#PWR0213") (unit 1)
         )
       )
     )
@@ -5582,7 +5582,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0215") (unit 1)
+          (reference "#PWR0212") (unit 1)
         )
       )
     )
@@ -5591,7 +5591,7 @@
   (symbol (lib_id "Device:C") (at 170.18 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006010c6a9)
-    (property "Reference" "C209" (at 173.101 265.5316 0)
+    (property "Reference" "C208" (at 173.101 265.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 173.101 267.843 0)
@@ -5608,7 +5608,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C209") (unit 1)
+          (reference "C208") (unit 1)
         )
       )
     )
@@ -5617,7 +5617,7 @@
   (symbol (lib_id "Device:C") (at 181.61 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006010c6af)
-    (property "Reference" "C210" (at 184.531 265.5316 0)
+    (property "Reference" "C209" (at 184.531 265.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 184.531 267.843 0)
@@ -5634,7 +5634,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C210") (unit 1)
+          (reference "C209") (unit 1)
         )
       )
     )
@@ -5643,7 +5643,7 @@
   (symbol (lib_id "Device:C") (at 193.04 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006010c6b5)
-    (property "Reference" "C212" (at 195.961 265.5316 0)
+    (property "Reference" "C210" (at 195.961 265.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 195.961 267.843 0)
@@ -5660,7 +5660,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C212") (unit 1)
+          (reference "C210") (unit 1)
         )
       )
     )
@@ -5669,7 +5669,7 @@
   (symbol (lib_id "Device:C") (at 204.47 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006010c6bb)
-    (property "Reference" "C213" (at 207.391 265.5316 0)
+    (property "Reference" "C212" (at 207.391 265.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 207.391 267.843 0)
@@ -5686,7 +5686,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C213") (unit 1)
+          (reference "C212") (unit 1)
         )
       )
     )
@@ -5695,7 +5695,7 @@
   (symbol (lib_id "Device:C") (at 215.9 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006010c6c1)
-    (property "Reference" "C216" (at 218.821 265.5316 0)
+    (property "Reference" "C215" (at 218.821 265.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 218.821 267.843 0)
@@ -5712,7 +5712,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C216") (unit 1)
+          (reference "C215") (unit 1)
         )
       )
     )
@@ -5721,7 +5721,7 @@
   (symbol (lib_id "Device:C") (at 227.33 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006010c6c7)
-    (property "Reference" "C217" (at 230.251 265.5316 0)
+    (property "Reference" "C216" (at 230.251 265.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 230.251 267.843 0)
@@ -5738,7 +5738,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C217") (unit 1)
+          (reference "C216") (unit 1)
         )
       )
     )
@@ -5747,7 +5747,7 @@
   (symbol (lib_id "Device:C") (at 240.03 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006010c6cd)
-    (property "Reference" "C218" (at 242.951 265.5316 0)
+    (property "Reference" "C217" (at 242.951 265.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 242.951 267.843 0)
@@ -5764,7 +5764,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C218") (unit 1)
+          (reference "C217") (unit 1)
         )
       )
     )
@@ -5792,7 +5792,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0229") (unit 1)
+          (reference "#PWR0224") (unit 1)
         )
       )
     )
@@ -5801,7 +5801,7 @@
   (symbol (lib_id "Device:C") (at 251.46 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060120cc9)
-    (property "Reference" "C219" (at 254.381 265.5316 0)
+    (property "Reference" "C218" (at 254.381 265.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 254.381 267.843 0)
@@ -5818,7 +5818,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C219") (unit 1)
+          (reference "C218") (unit 1)
         )
       )
     )
@@ -5846,7 +5846,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0222") (unit 1)
+          (reference "#PWR0220") (unit 1)
         )
       )
     )
@@ -5874,7 +5874,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0221") (unit 1)
+          (reference "#PWR0219") (unit 1)
         )
       )
     )
@@ -5902,7 +5902,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0228") (unit 1)
+          (reference "#PWR0223") (unit 1)
         )
       )
     )
@@ -5911,7 +5911,7 @@
   (symbol (lib_id "Device:C") (at 262.89 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060164d6c)
-    (property "Reference" "C220" (at 265.811 265.5316 0)
+    (property "Reference" "C219" (at 265.811 265.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 265.811 267.843 0)
@@ -5928,7 +5928,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C220") (unit 1)
+          (reference "C219") (unit 1)
         )
       )
     )
@@ -5937,7 +5937,7 @@
   (symbol (lib_id "Device:C") (at 274.32 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060164d72)
-    (property "Reference" "C223" (at 277.241 265.5316 0)
+    (property "Reference" "C221" (at 277.241 265.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 277.241 267.843 0)
@@ -5954,7 +5954,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C223") (unit 1)
+          (reference "C221") (unit 1)
         )
       )
     )
@@ -5982,7 +5982,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0223") (unit 1)
+          (reference "#PWR0221") (unit 1)
         )
       )
     )
@@ -6010,7 +6010,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0234") (unit 1)
+          (reference "#PWR0232") (unit 1)
         )
       )
     )
@@ -6038,7 +6038,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0240") (unit 1)
+          (reference "#PWR0238") (unit 1)
         )
       )
     )
@@ -6066,7 +6066,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0239") (unit 1)
+          (reference "#PWR0237") (unit 1)
         )
       )
     )
@@ -6110,7 +6110,7 @@
   (symbol (lib_id "Device:R") (at 228.6 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000601e3268)
-    (property "Reference" "R211" (at 230.378 43.2816 0)
+    (property "Reference" "R210" (at 230.378 43.2816 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10" (at 230.378 45.593 0)
@@ -6127,7 +6127,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R211") (unit 1)
+          (reference "R210") (unit 1)
         )
       )
     )
@@ -6155,7 +6155,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0231") (unit 1)
+          (reference "#PWR0229") (unit 1)
         )
       )
     )
@@ -6183,7 +6183,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0230") (unit 1)
+          (reference "#PWR0228") (unit 1)
         )
       )
     )
@@ -6192,7 +6192,7 @@
   (symbol (lib_id "Device:R") (at 228.6 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006025d386)
-    (property "Reference" "R212" (at 230.378 71.2216 0)
+    (property "Reference" "R211" (at 230.378 71.2216 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10" (at 230.378 73.533 0)
@@ -6209,7 +6209,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R212") (unit 1)
+          (reference "R211") (unit 1)
         )
       )
     )
@@ -6272,7 +6272,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0235") (unit 1)
+          (reference "#PWR0233") (unit 1)
         )
       )
     )
@@ -6503,7 +6503,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0211") (unit 1)
+          (reference "#PWR0209") (unit 1)
         )
       )
     )
@@ -6540,7 +6540,7 @@
   (symbol (lib_id "Device:R") (at 167.64 161.29 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060360271)
-    (property "Reference" "R209" (at 167.64 156.0322 90)
+    (property "Reference" "R208" (at 167.64 156.0322 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "12k" (at 167.64 158.3436 90)
@@ -6557,7 +6557,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R209") (unit 1)
+          (reference "R208") (unit 1)
         )
       )
     )
@@ -6566,7 +6566,7 @@
   (symbol (lib_id "Device:D") (at 160.02 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000603612d4)
-    (property "Reference" "D203" (at 160.02 155.7782 0)
+    (property "Reference" "D202" (at 160.02 155.7782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BAV21W" (at 160.02 158.0896 0)
@@ -6583,7 +6583,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "D203") (unit 1)
+          (reference "D202") (unit 1)
         )
       )
     )
@@ -6592,7 +6592,7 @@
   (symbol (lib_id "Device:R") (at 152.4 171.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060362ee0)
-    (property "Reference" "R207" (at 154.178 170.2816 0)
+    (property "Reference" "R206" (at 154.178 170.2816 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "120k" (at 154.178 172.593 0)
@@ -6609,7 +6609,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R207") (unit 1)
+          (reference "R206") (unit 1)
         )
       )
     )
@@ -6637,7 +6637,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0220") (unit 1)
+          (reference "#PWR0217") (unit 1)
         )
       )
     )
@@ -6665,7 +6665,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0217") (unit 1)
+          (reference "#PWR0214") (unit 1)
         )
       )
     )
@@ -6674,7 +6674,7 @@
   (symbol (lib_id "Device:R") (at 118.11 172.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060463885)
-    (property "Reference" "R205" (at 119.888 171.5516 0)
+    (property "Reference" "R202" (at 119.888 171.5516 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "620k" (at 119.888 173.863 0)
@@ -6691,7 +6691,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R205") (unit 1)
+          (reference "R202") (unit 1)
         )
       )
     )
@@ -6700,7 +6700,7 @@
   (symbol (lib_id "Device:R") (at 111.76 167.64 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060480498)
-    (property "Reference" "R203" (at 111.76 162.3822 90)
+    (property "Reference" "R201" (at 111.76 162.3822 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "120k" (at 111.76 164.6936 90)
@@ -6717,7 +6717,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R203") (unit 1)
+          (reference "R201") (unit 1)
         )
       )
     )
@@ -6745,7 +6745,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0232") (unit 1)
+          (reference "#PWR0230") (unit 1)
         )
       )
     )
@@ -6754,13 +6754,13 @@
   (symbol (lib_id "Device:R") (at 247.65 58.42 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000605467d1)
-    (property "Reference" "R214" (at 247.65 53.1622 90)
+    (property "Reference" "R213" (at 247.65 53.1622 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "12k/.05%" (at 247.65 55.4736 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 247.65 56.642 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 247.65 56.642 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 247.65 58.42 0)
@@ -6771,7 +6771,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R214") (unit 1)
+          (reference "R213") (unit 1)
         )
       )
     )
@@ -6834,7 +6834,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0236") (unit 1)
+          (reference "#PWR0234") (unit 1)
         )
       )
     )
@@ -6869,7 +6869,7 @@
   (symbol (lib_id "Device:D") (at 273.05 90.17 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006059415f)
-    (property "Reference" "D204" (at 273.05 84.6582 0)
+    (property "Reference" "D203" (at 273.05 84.6582 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BAV21W" (at 273.05 86.9696 0)
@@ -6886,7 +6886,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "D204") (unit 1)
+          (reference "D203") (unit 1)
         )
       )
     )
@@ -6895,7 +6895,7 @@
   (symbol (lib_id "Device:D") (at 273.05 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000605951ea)
-    (property "Reference" "D205" (at 273.05 93.5482 0)
+    (property "Reference" "D204" (at 273.05 93.5482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BAV21W" (at 273.05 95.8596 0)
@@ -6912,7 +6912,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "D205") (unit 1)
+          (reference "D204") (unit 1)
         )
       )
     )
@@ -6921,7 +6921,7 @@
   (symbol (lib_id "Device:R") (at 273.05 107.95 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000605a03fd)
-    (property "Reference" "R219" (at 273.05 102.6922 90)
+    (property "Reference" "R218" (at 273.05 102.6922 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "62k" (at 273.05 105.0036 90)
@@ -6938,7 +6938,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R219") (unit 1)
+          (reference "R218") (unit 1)
         )
       )
     )
@@ -6947,7 +6947,7 @@
   (symbol (lib_id "Device:C") (at 273.05 118.11 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000605ce304)
-    (property "Reference" "C221" (at 273.05 111.7092 90)
+    (property "Reference" "C220" (at 273.05 111.7092 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "33p" (at 273.05 114.0206 90)
@@ -6964,7 +6964,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C221") (unit 1)
+          (reference "C220") (unit 1)
         )
       )
     )
@@ -6973,7 +6973,7 @@
   (symbol (lib_id "Device:R") (at 267.97 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000605edf01)
-    (property "Reference" "R218" (at 269.748 71.2216 0)
+    (property "Reference" "R217" (at 269.748 71.2216 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10" (at 269.748 73.533 0)
@@ -6990,7 +6990,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R218") (unit 1)
+          (reference "R217") (unit 1)
         )
       )
     )
@@ -6999,7 +6999,7 @@
   (symbol (lib_id "Device:R") (at 267.97 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000605f2b7d)
-    (property "Reference" "R217" (at 269.748 40.7416 0)
+    (property "Reference" "R216" (at 269.748 40.7416 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10" (at 269.748 43.053 0)
@@ -7016,7 +7016,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R217") (unit 1)
+          (reference "R216") (unit 1)
         )
       )
     )
@@ -7044,7 +7044,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0237") (unit 1)
+          (reference "#PWR0235") (unit 1)
         )
       )
     )
@@ -7072,7 +7072,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0238") (unit 1)
+          (reference "#PWR0236") (unit 1)
         )
       )
     )
@@ -7081,13 +7081,13 @@
   (symbol (lib_id "Device:R") (at 304.8 55.88 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006064ec75)
-    (property "Reference" "R222" (at 304.8 50.6222 90)
+    (property "Reference" "R221" (at 304.8 50.6222 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "3k9/.05%" (at 304.8 52.9336 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 304.8 54.102 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 304.8 54.102 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 304.8 55.88 0)
@@ -7098,7 +7098,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R222") (unit 1)
+          (reference "R221") (unit 1)
         )
       )
     )
@@ -7142,13 +7142,13 @@
   (symbol (lib_id "Device:R") (at 295.91 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000606989e7)
-    (property "Reference" "R221" (at 297.688 64.8716 0)
+    (property "Reference" "R220" (at 297.688 64.8716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "620/.05%" (at 297.688 67.183 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 294.132 66.04 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 294.132 66.04 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 295.91 66.04 0)
@@ -7159,7 +7159,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R221") (unit 1)
+          (reference "R220") (unit 1)
         )
       )
     )
@@ -7187,7 +7187,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0242") (unit 1)
+          (reference "#PWR0240") (unit 1)
         )
       )
     )
@@ -7215,7 +7215,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0247") (unit 1)
+          (reference "#PWR0245") (unit 1)
         )
       )
     )
@@ -7224,7 +7224,7 @@
   (symbol (lib_id "Device:R") (at 314.96 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000606bb3e1)
-    (property "Reference" "R223" (at 316.738 86.4616 0)
+    (property "Reference" "R222" (at 316.738 86.4616 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10" (at 316.738 88.773 0)
@@ -7241,7 +7241,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R223") (unit 1)
+          (reference "R222") (unit 1)
         )
       )
     )
@@ -7250,7 +7250,7 @@
   (symbol (lib_id "Device:C") (at 322.58 81.28 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000606c60d6)
-    (property "Reference" "C224" (at 322.58 74.8792 90)
+    (property "Reference" "C223" (at 322.58 74.8792 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 322.58 77.1906 90)
@@ -7267,7 +7267,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "C224") (unit 1)
+          (reference "C223") (unit 1)
         )
       )
     )
@@ -7295,7 +7295,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "#PWR0245") (unit 1)
+          (reference "#PWR0243") (unit 1)
         )
       )
     )
@@ -7304,13 +7304,13 @@
   (symbol (lib_id "Device:R") (at 317.5 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000606ecdea)
-    (property "Reference" "R225" (at 319.278 40.7416 0)
+    (property "Reference" "R224" (at 319.278 40.7416 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "39k/.05%" (at 319.278 43.053 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 315.722 41.91 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 315.722 41.91 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 317.5 41.91 0)
@@ -7321,7 +7321,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R225") (unit 1)
+          (reference "R224") (unit 1)
         )
       )
     )
@@ -7330,13 +7330,13 @@
   (symbol (lib_id "Device:R") (at 317.5 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000606ee66a)
-    (property "Reference" "R224" (at 319.278 30.5816 0)
+    (property "Reference" "R223" (at 319.278 30.5816 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "62/.1%" (at 319.278 32.893 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 315.722 31.75 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 315.722 31.75 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 317.5 31.75 0)
@@ -7347,7 +7347,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R224") (unit 1)
+          (reference "R223") (unit 1)
         )
       )
     )
@@ -7356,13 +7356,13 @@
   (symbol (lib_id "Device:R") (at 331.47 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000606eff49)
-    (property "Reference" "R226" (at 333.248 40.7416 0)
+    (property "Reference" "R225" (at 333.248 40.7416 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3k9/.05%" (at 333.248 43.053 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 329.692 41.91 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 329.692 41.91 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 331.47 41.91 0)
@@ -7373,7 +7373,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/00000000-0000-0000-0000-0000605cfe12"
-          (reference "R226") (unit 1)
+          (reference "R225") (unit 1)
         )
       )
     )

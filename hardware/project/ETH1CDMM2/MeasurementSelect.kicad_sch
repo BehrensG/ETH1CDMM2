@@ -1782,7 +1782,7 @@
   (symbol (lib_id "ETH1CDMM2:TQ2SA-5V") (at 186.69 114.3 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0652bd28-c2fa-4473-80b0-86ea1d780898)
-    (property "Reference" "K1506" (at 186.69 95.25 90)
+    (property "Reference" "K1505" (at 186.69 95.25 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TQ2SA-5V" (at 186.69 97.79 90)
@@ -1807,7 +1807,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "K1506") (unit 1)
+          (reference "K1505") (unit 1)
         )
       )
     )
@@ -1869,7 +1869,7 @@
           (reference "R1407") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1507") (unit 1)
+          (reference "R1514") (unit 1)
         )
       )
     )
@@ -1878,7 +1878,7 @@
   (symbol (lib_id "Device:C") (at 140.97 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 135e083f-3f87-4536-bafe-bb92ca561fee)
-    (property "Reference" "C1503" (at 144.78 174.625 0)
+    (property "Reference" "C1502" (at 144.78 174.625 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 144.78 177.165 0)
@@ -1895,7 +1895,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "C1503") (unit 1)
+          (reference "C1502") (unit 1)
         )
       )
     )
@@ -1929,7 +1929,7 @@
           (reference "R1401") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1515") (unit 1)
+          (reference "R1501") (unit 1)
         )
       )
     )
@@ -1997,7 +1997,7 @@
           (reference "#PWR01304") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "#PWR01510") (unit 1)
+          (reference "#PWR01504") (unit 1)
         )
       )
     )
@@ -2006,13 +2006,13 @@
   (symbol (lib_id "Device:R") (at 241.3 82.55 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1b8c9e1d-8a31-4b29-94d7-f6a780d4bdd5)
-    (property "Reference" "R1514" (at 241.3 77.47 90)
+    (property "Reference" "R1526" (at 241.3 77.47 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "24k" (at 241.3 80.01 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 241.3 84.328 90)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 241.3 84.328 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 241.3 82.55 0)
@@ -2023,7 +2023,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1514") (unit 1)
+          (reference "R1526") (unit 1)
         )
       )
     )
@@ -2032,7 +2032,7 @@
   (symbol (lib_id "ETH1CDMM2:HE3621A0510") (at 101.6 30.48 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2224f06b-eab8-489c-bff1-a50da1598e66)
-    (property "Reference" "K1505" (at 101.6 25.4 90)
+    (property "Reference" "K1501" (at 101.6 25.4 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "HE3621A0510" (at 101.6 27.94 90)
@@ -2051,7 +2051,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "K1505") (unit 1)
+          (reference "K1501") (unit 1)
         )
       )
     )
@@ -2060,13 +2060,13 @@
   (symbol (lib_id "Device:L") (at 198.12 54.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 27442d65-e2a6-46ef-a225-5141bfe9e7fa)
-    (property "Reference" "L1501" (at 198.12 49.53 90)
+    (property "Reference" "L1502" (at 198.12 49.53 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "L0805R100MPWRT" (at 198.12 52.07 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 198.12 54.61 0)
+    (property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (at 198.12 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 198.12 54.61 0)
@@ -2077,7 +2077,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "L1501") (unit 1)
+          (reference "L1502") (unit 1)
         )
       )
     )
@@ -2111,7 +2111,7 @@
           (reference "R1406") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1520") (unit 1)
+          (reference "R1511") (unit 1)
         )
       )
     )
@@ -2139,7 +2139,7 @@
           (reference "#PWR01302") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "#PWR01514") (unit 1)
+          (reference "#PWR01509") (unit 1)
         )
       )
     )
@@ -2167,7 +2167,7 @@
           (reference "#PWR01304") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "#PWR01515") (unit 1)
+          (reference "#PWR01510") (unit 1)
         )
       )
     )
@@ -2176,7 +2176,7 @@
   (symbol (lib_id "ETH1CDMM2:HE3621A0510") (at 184.15 59.69 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3db9e98d-60d5-43ed-ab75-f5a7f6e9da46)
-    (property "Reference" "K1502" (at 186.69 59.055 0)
+    (property "Reference" "K1504" (at 186.69 59.055 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "HE3621A0510" (at 186.69 61.595 0)
@@ -2195,7 +2195,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "K1502") (unit 1)
+          (reference "K1504") (unit 1)
         )
       )
     )
@@ -2204,13 +2204,13 @@
   (symbol (lib_id "Device:R") (at 220.98 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3fc20123-e4ec-4615-b135-eecdd1f4079c)
-    (property "Reference" "R1524" (at 223.52 117.475 0)
+    (property "Reference" "R1522" (at 223.52 117.475 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Y11215R00000B9R" (at 223.52 120.015 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 219.202 118.11 90)
+    (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 219.202 118.11 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 220.98 118.11 0)
@@ -2221,7 +2221,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1524") (unit 1)
+          (reference "R1522") (unit 1)
         )
       )
     )
@@ -2249,7 +2249,7 @@
           (reference "#PWR01301") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "#PWR01506") (unit 1)
+          (reference "#PWR01501") (unit 1)
         )
       )
     )
@@ -2264,7 +2264,7 @@
     (property "Value" "620" (at 198.12 18.6436 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (at 198.12 19.812 90)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 198.12 19.812 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 198.12 21.59 0)
@@ -2283,7 +2283,7 @@
           (reference "R1419") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1526") (unit 1)
+          (reference "R1519") (unit 1)
         )
       )
     )
@@ -2316,7 +2316,7 @@
           (reference "#PWR01435") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "#PWR01502") (unit 1)
+          (reference "#PWR01513") (unit 1)
         )
       )
     )
@@ -2390,7 +2390,7 @@
           (reference "R1408") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1522") (unit 1)
+          (reference "R1515") (unit 1)
         )
       )
     )
@@ -2424,7 +2424,7 @@
           (reference "R1402") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1516") (unit 1)
+          (reference "R1503") (unit 1)
         )
       )
     )
@@ -2433,7 +2433,7 @@
   (symbol (lib_id "ETH1CDMM2:+5VF") (at 72.39 165.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6cba458d-1ec6-4c3b-ac84-08fc143f2bd5)
-    (property "Reference" "#PWR01504" (at 72.39 168.91 0)
+    (property "Reference" "#PWR01505" (at 72.39 168.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5VF" (at 72.39 161.29 0)
@@ -2449,7 +2449,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "#PWR01504") (unit 1)
+          (reference "#PWR01505") (unit 1)
         )
       )
     )
@@ -2458,7 +2458,7 @@
   (symbol (lib_id "ETH1CDMM2:HE3621A0510") (at 62.23 173.99 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6d7bcaad-a403-4663-b8d7-1dc1b79f4816)
-    (property "Reference" "K1504" (at 64.77 172.974 0)
+    (property "Reference" "K1502" (at 64.77 172.974 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "HE3621A0510" (at 64.77 175.514 0)
@@ -2477,7 +2477,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "K1504") (unit 2)
+          (reference "K1502") (unit 2)
         )
       )
     )
@@ -2486,7 +2486,7 @@
   (symbol (lib_id "ETH1CDMM2:HE3621A0510") (at 43.18 173.99 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 70caa72c-0052-43c7-baa8-85e8f02e4efa)
-    (property "Reference" "K1505" (at 45.72 172.974 0)
+    (property "Reference" "K1501" (at 45.72 172.974 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "HE3621A0510" (at 45.72 175.514 0)
@@ -2505,7 +2505,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "K1505") (unit 2)
+          (reference "K1501") (unit 2)
         )
       )
     )
@@ -2554,13 +2554,13 @@
   (symbol (lib_id "Device:R") (at 236.22 111.76 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 74204696-14c3-49df-86d2-efcaeaf41fa6)
-    (property "Reference" "R1523" (at 236.22 106.68 90)
+    (property "Reference" "R1525" (at 236.22 106.68 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100k" (at 236.22 109.22 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 236.22 113.538 90)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 236.22 113.538 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 236.22 111.76 0)
@@ -2571,7 +2571,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1523") (unit 1)
+          (reference "R1525") (unit 1)
         )
       )
     )
@@ -2605,7 +2605,7 @@
           (reference "R1403") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1517") (unit 1)
+          (reference "R1505") (unit 1)
         )
       )
     )
@@ -2639,7 +2639,7 @@
           (reference "C1410") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "C1501") (unit 1)
+          (reference "C1504") (unit 1)
         )
       )
     )
@@ -2673,7 +2673,7 @@
           (reference "R1403") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1503") (unit 1)
+          (reference "R1506") (unit 1)
         )
       )
     )
@@ -2707,7 +2707,7 @@
           (reference "R1410") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1510") (unit 1)
+          (reference "R1518") (unit 1)
         )
       )
     )
@@ -2716,7 +2716,7 @@
   (symbol (lib_id "ETH1CDMM2:HE3621A0510") (at 100.33 173.99 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8d7ed507-a6c7-4452-b21a-5ea4048c7b6b)
-    (property "Reference" "K1502" (at 102.87 172.974 0)
+    (property "Reference" "K1504" (at 102.87 172.974 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "HE3621A0510" (at 102.87 175.514 0)
@@ -2735,7 +2735,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "K1502") (unit 2)
+          (reference "K1504") (unit 2)
         )
       )
     )
@@ -2768,7 +2768,7 @@
           (reference "#PWR01442") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "#PWR01505") (unit 1)
+          (reference "#PWR01514") (unit 1)
         )
       )
     )
@@ -2802,7 +2802,7 @@
           (reference "R1408") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1508") (unit 1)
+          (reference "R1516") (unit 1)
         )
       )
     )
@@ -2836,7 +2836,7 @@
           (reference "R1405") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1505") (unit 1)
+          (reference "R1510") (unit 1)
         )
       )
     )
@@ -2845,7 +2845,7 @@
   (symbol (lib_id "ETH1CDMM2:HE3621A0510") (at 101.6 41.91 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9e67e22f-02a4-4c81-932d-10827d604afe)
-    (property "Reference" "K1504" (at 101.6 36.83 90)
+    (property "Reference" "K1502" (at 101.6 36.83 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "HE3621A0510" (at 101.6 39.37 90)
@@ -2864,7 +2864,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "K1504") (unit 1)
+          (reference "K1502") (unit 1)
         )
       )
     )
@@ -2879,7 +2879,7 @@
     (property "Value" "240k/.05%" (at 229.87 51.6636 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (at 229.87 52.832 90)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 229.87 52.832 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 229.87 54.61 0)
@@ -2898,7 +2898,7 @@
           (reference "R1421") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1513") (unit 1)
+          (reference "R1524") (unit 1)
         )
       )
     )
@@ -2907,7 +2907,7 @@
   (symbol (lib_id "ETH1CDMM2:+5VF") (at 254 149.86 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a3a5a019-fe08-4696-a5d9-942d85e3c8b5)
-    (property "Reference" "#PWR01501" (at 254 146.05 0)
+    (property "Reference" "#PWR01516" (at 254 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5VF" (at 254 154.94 0)
@@ -2923,7 +2923,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "#PWR01501") (unit 1)
+          (reference "#PWR01516") (unit 1)
         )
       )
     )
@@ -2957,7 +2957,7 @@
           (reference "R1419") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1511") (unit 1)
+          (reference "R1520") (unit 1)
         )
       )
     )
@@ -2991,7 +2991,7 @@
           (reference "R1404") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1504") (unit 1)
+          (reference "R1508") (unit 1)
         )
       )
     )
@@ -3025,7 +3025,7 @@
           (reference "R1405") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1519") (unit 1)
+          (reference "R1509") (unit 1)
         )
       )
     )
@@ -3053,7 +3053,7 @@
           (reference "#PWR01303") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "#PWR01512") (unit 1)
+          (reference "#PWR01508") (unit 1)
         )
       )
     )
@@ -3062,13 +3062,13 @@
   (symbol (lib_id "Device:R") (at 220.98 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b3702a58-5002-4389-b65e-5200a4250342)
-    (property "Reference" "R1525" (at 223.52 127.635 0)
+    (property "Reference" "R1523" (at 223.52 127.635 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "WSR5R1000DEK" (at 223.52 130.175 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 219.202 128.27 90)
+    (property "Footprint" "ETH1CDMM2:WSR5" (at 219.202 128.27 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 220.98 128.27 0)
@@ -3079,7 +3079,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1525") (unit 1)
+          (reference "R1523") (unit 1)
         )
       )
     )
@@ -3113,7 +3113,7 @@
           (reference "R1401") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1501") (unit 1)
+          (reference "R1502") (unit 1)
         )
       )
     )
@@ -3141,7 +3141,7 @@
           (reference "#PWR01302") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "#PWR01513") (unit 1)
+          (reference "#PWR01507") (unit 1)
         )
       )
     )
@@ -3175,7 +3175,7 @@
           (reference "R1406") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1506") (unit 1)
+          (reference "R1512") (unit 1)
         )
       )
     )
@@ -3209,7 +3209,7 @@
           (reference "R1404") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1518") (unit 1)
+          (reference "R1507") (unit 1)
         )
       )
     )
@@ -3218,7 +3218,7 @@
   (symbol (lib_id "Device:C") (at 154.94 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c561fd39-da44-47a8-af61-ba26b2c4015e)
-    (property "Reference" "C1504" (at 158.75 174.625 0)
+    (property "Reference" "C1503" (at 158.75 174.625 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 158.75 177.165 0)
@@ -3235,7 +3235,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "C1504") (unit 1)
+          (reference "C1503") (unit 1)
         )
       )
     )
@@ -3269,7 +3269,7 @@
           (reference "R1409") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1509") (unit 1)
+          (reference "R1517") (unit 1)
         )
       )
     )
@@ -3302,7 +3302,7 @@
           (reference "#PWR01442") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "#PWR01503") (unit 1)
+          (reference "#PWR01515") (unit 1)
         )
       )
     )
@@ -3311,7 +3311,7 @@
   (symbol (lib_id "ETH1CDMM2:+5VF") (at 177.8 124.46 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cc66141b-85cd-4c0e-aab7-27501d06d869)
-    (property "Reference" "#PWR01507" (at 181.61 124.46 0)
+    (property "Reference" "#PWR01512" (at 181.61 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5VF" (at 173.99 124.46 90)
@@ -3327,7 +3327,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "#PWR01507") (unit 1)
+          (reference "#PWR01512") (unit 1)
         )
       )
     )
@@ -3376,7 +3376,7 @@
   (symbol (lib_id "Device:C") (at 127 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e85be463-5de2-4323-a76d-fd64a0fb488b)
-    (property "Reference" "C1502" (at 130.81 174.625 0)
+    (property "Reference" "C1501" (at 130.81 174.625 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 130.81 177.165 0)
@@ -3393,7 +3393,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "C1502") (unit 1)
+          (reference "C1501") (unit 1)
         )
       )
     )
@@ -3421,7 +3421,7 @@
           (reference "#PWR01301") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "#PWR01511") (unit 1)
+          (reference "#PWR01506") (unit 1)
         )
       )
     )
@@ -3449,7 +3449,7 @@
           (reference "#PWR01302") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "#PWR01508") (unit 1)
+          (reference "#PWR01502") (unit 1)
         )
       )
     )
@@ -3458,13 +3458,13 @@
   (symbol (lib_id "Device:L") (at 198.12 30.48 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f3e0f2b2-2fa9-43ca-8ea8-e283e93ad23f)
-    (property "Reference" "L1503" (at 198.12 25.4 90)
+    (property "Reference" "L1501" (at 198.12 25.4 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "L0805R100MPWRT" (at 198.12 27.94 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 198.12 30.48 0)
+    (property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (at 198.12 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 198.12 30.48 0)
@@ -3475,7 +3475,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "L1503") (unit 1)
+          (reference "L1501") (unit 1)
         )
       )
     )
@@ -3503,7 +3503,7 @@
           (reference "#PWR01302") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "#PWR01516") (unit 1)
+          (reference "#PWR01511") (unit 1)
         )
       )
     )
@@ -3537,7 +3537,7 @@
           (reference "R1407") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1521") (unit 1)
+          (reference "R1513") (unit 1)
         )
       )
     )
@@ -3565,7 +3565,7 @@
           (reference "#PWR01303") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "#PWR01509") (unit 1)
+          (reference "#PWR01503") (unit 1)
         )
       )
     )
@@ -3608,7 +3608,7 @@
     (property "Value" "240k/.05%" (at 215.9 51.6636 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (at 215.9 52.832 90)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 215.9 52.832 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 215.9 54.61 0)
@@ -3627,7 +3627,7 @@
           (reference "R1420") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1512") (unit 1)
+          (reference "R1521") (unit 1)
         )
       )
     )
@@ -3701,7 +3701,7 @@
           (reference "R1402") (unit 1)
         )
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/2a813b18-1d26-4bda-a5a0-c0ec48b0213c"
-          (reference "R1502") (unit 1)
+          (reference "R1504") (unit 1)
         )
       )
     )

@@ -2758,7 +2758,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01412") (unit 1)
+          (reference "#PWR01408") (unit 1)
         )
       )
     )
@@ -2795,7 +2795,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "U1409") (unit 1)
+          (reference "U1408") (unit 1)
         )
       )
     )
@@ -2862,7 +2862,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "U1410") (unit 1)
+          (reference "U1405") (unit 1)
         )
       )
     )
@@ -3016,7 +3016,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01411") (unit 1)
+          (reference "#PWR01407") (unit 1)
         )
       )
     )
@@ -3556,7 +3556,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01456") (unit 1)
+          (reference "#PWR01429") (unit 1)
         )
       )
     )
@@ -3587,7 +3587,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "R1425") (unit 1)
+          (reference "R1406") (unit 1)
         )
       )
     )
@@ -3619,7 +3619,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "U1412") (unit 1)
+          (reference "U1407") (unit 1)
         )
       )
     )
@@ -3650,7 +3650,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "R1427") (unit 1)
+          (reference "R1408") (unit 1)
         )
       )
     )
@@ -3681,7 +3681,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "R1429") (unit 1)
+          (reference "R1410") (unit 1)
         )
       )
     )
@@ -3712,7 +3712,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "R1428") (unit 1)
+          (reference "R1409") (unit 1)
         )
       )
     )
@@ -3744,7 +3744,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "U1411") (unit 1)
+          (reference "U1406") (unit 1)
         )
       )
     )
@@ -3775,7 +3775,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "R1426") (unit 1)
+          (reference "R1407") (unit 1)
         )
       )
     )
@@ -3806,7 +3806,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "R1424") (unit 1)
+          (reference "R1405") (unit 1)
         )
       )
     )
@@ -3836,7 +3836,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01455") (unit 1)
+          (reference "#PWR01428") (unit 1)
         )
       )
     )
@@ -3866,7 +3866,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01453") (unit 1)
+          (reference "#PWR01426") (unit 1)
         )
       )
     )
@@ -3896,7 +3896,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01454") (unit 1)
+          (reference "#PWR01427") (unit 1)
         )
       )
     )
@@ -3927,7 +3927,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "C1424") (unit 1)
+          (reference "C1408") (unit 1)
         )
       )
     )
@@ -3957,7 +3957,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01452") (unit 1)
+          (reference "#PWR01420") (unit 1)
         )
       )
     )
@@ -3987,7 +3987,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01459") (unit 1)
+          (reference "#PWR01422") (unit 1)
         )
       )
     )
@@ -4002,7 +4002,7 @@
     (property "Value" "620/.05%" (at 201.93 160.2486 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 201.93 161.417 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 201.93 161.417 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.93 163.195 0)
@@ -4018,7 +4018,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "R1430") (unit 1)
+          (reference "R1404") (unit 1)
         )
       )
     )
@@ -4033,7 +4033,7 @@
     (property "Value" "12k/.05%" (at 178.435 66.2686 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 178.435 67.437 90)
+    (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 178.435 67.437 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 178.435 69.215 0)
@@ -4049,7 +4049,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "R1423") (unit 1)
+          (reference "R1403") (unit 1)
         )
       )
     )
@@ -4080,7 +4080,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "C1417") (unit 1)
+          (reference "C1409") (unit 1)
         )
       )
     )
@@ -4110,7 +4110,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01447") (unit 1)
+          (reference "#PWR01421") (unit 1)
         )
       )
     )
@@ -4141,7 +4141,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "C1420") (unit 1)
+          (reference "C1412") (unit 1)
         )
       )
     )
@@ -4171,7 +4171,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01450") (unit 1)
+          (reference "#PWR01432") (unit 1)
         )
       )
     )
@@ -4201,7 +4201,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01451") (unit 1)
+          (reference "#PWR01433") (unit 1)
         )
       )
     )
@@ -4238,7 +4238,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "U1408") (unit 1)
+          (reference "U1404") (unit 1)
         )
       )
     )
@@ -4253,7 +4253,7 @@
     (property "Value" "22/.1%" (at 163.195 120.8786 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" (at 163.195 122.047 90)
+    (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 163.195 122.047 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 163.195 123.825 0)
@@ -4269,7 +4269,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "R1422") (unit 1)
+          (reference "R1402") (unit 1)
         )
       )
     )
@@ -4299,7 +4299,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01443") (unit 1)
+          (reference "#PWR01418") (unit 1)
         )
       )
     )
@@ -4329,7 +4329,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01444") (unit 1)
+          (reference "#PWR01419") (unit 1)
         )
       )
     )
@@ -4364,7 +4364,7 @@
   (symbol (lib_id "ETH1CDMM2:LT5400-9k-1k_Split") (at 261.62 203.2 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 084d1694-56eb-4996-a1aa-abf347adb1a1)
-    (property "Reference" "U1404" (at 267.97 202.565 0)
+    (property "Reference" "U1409" (at 267.97 202.565 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LT5400-8" (at 268.605 204.47 0)
@@ -4388,7 +4388,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "U1404") (unit 2)
+          (reference "U1409") (unit 2)
         )
       )
     )
@@ -4397,7 +4397,7 @@
   (symbol (lib_name "LT5400-9k-1k_Split_1") (lib_id "ETH1CDMM2:LT5400-9k-1k_Split") (at 261.62 177.8 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 15beb0e2-ff89-4207-8ca3-d8666673bf79)
-    (property "Reference" "U1404" (at 268.605 177.165 0)
+    (property "Reference" "U1409" (at 268.605 177.165 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LT5400-8" (at 268.605 179.705 0)
@@ -4421,7 +4421,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "U1404") (unit 1)
+          (reference "U1409") (unit 1)
         )
       )
     )
@@ -4451,7 +4451,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01407") (unit 1)
+          (reference "#PWR01415") (unit 1)
         )
       )
     )
@@ -4460,7 +4460,7 @@
   (symbol (lib_id "ETH1CDMM2:LT5400-9k-1k_Split") (at 261.62 194.945 0) (mirror x) (unit 3)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 442ce047-0287-4be5-af1f-418c36447be7)
-    (property "Reference" "U1404" (at 268.605 193.675 0)
+    (property "Reference" "U1409" (at 268.605 193.675 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LT5400-8" (at 268.605 196.215 0)
@@ -4484,7 +4484,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "U1404") (unit 3)
+          (reference "U1409") (unit 3)
         )
       )
     )
@@ -4514,7 +4514,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01424") (unit 1)
+          (reference "#PWR01436") (unit 1)
         )
       )
     )
@@ -4544,7 +4544,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01410") (unit 1)
+          (reference "#PWR01417") (unit 1)
         )
       )
     )
@@ -4574,7 +4574,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01409") (unit 1)
+          (reference "#PWR01414") (unit 1)
         )
       )
     )
@@ -4604,7 +4604,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01420") (unit 1)
+          (reference "#PWR01411") (unit 1)
         )
       )
     )
@@ -4686,7 +4686,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01422") (unit 1)
+          (reference "#PWR01412") (unit 1)
         )
       )
     )
@@ -4716,7 +4716,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01413") (unit 1)
+          (reference "#PWR01416") (unit 1)
         )
       )
     )
@@ -4746,7 +4746,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01418") (unit 1)
+          (reference "#PWR01434") (unit 1)
         )
       )
     )
@@ -4832,7 +4832,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01421") (unit 1)
+          (reference "#PWR01410") (unit 1)
         )
       )
     )
@@ -4862,7 +4862,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01419") (unit 1)
+          (reference "#PWR01409") (unit 1)
         )
       )
     )
@@ -4871,13 +4871,13 @@
   (symbol (lib_id "Device:R") (at 261.62 163.195 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 88521545-3a22-4431-844e-36a639bf7a3d)
-    (property "Reference" "R1402" (at 264.16 162.56 0)
+    (property "Reference" "R1411" (at 264.16 162.56 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "RG2012N-184-W-T1" (at 264.16 165.1 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 259.842 163.195 90)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 259.842 163.195 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 261.62 163.195 0)
@@ -4888,7 +4888,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "R1402") (unit 1)
+          (reference "R1411") (unit 1)
         )
       )
     )
@@ -4918,7 +4918,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01425") (unit 1)
+          (reference "#PWR01435") (unit 1)
         )
       )
     )
@@ -4927,7 +4927,7 @@
   (symbol (lib_id "ETH1CDMM2:LT5400-9k-1k_Split") (at 262.89 264.795 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8ffdb820-b521-4a78-bf83-d994c84f7893)
-    (property "Reference" "U1404" (at 259.08 257.81 0)
+    (property "Reference" "U1409" (at 259.08 257.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "LT5400-8" (at 257.81 260.35 0)
@@ -4951,7 +4951,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "U1404") (unit 5)
+          (reference "U1409") (unit 5)
         )
       )
     )
@@ -4981,7 +4981,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01415") (unit 1)
+          (reference "#PWR01425") (unit 1)
         )
       )
     )
@@ -4990,7 +4990,7 @@
   (symbol (lib_id "Device:C") (at 224.155 264.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ab83fbc9-480e-42de-a418-d07d1d4dc5eb)
-    (property "Reference" "C1410" (at 227.965 263.525 0)
+    (property "Reference" "C1413" (at 227.965 263.525 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 227.965 266.065 0)
@@ -5007,7 +5007,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "C1410") (unit 1)
+          (reference "C1413") (unit 1)
         )
       )
     )
@@ -5037,7 +5037,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01408") (unit 1)
+          (reference "#PWR01413") (unit 1)
         )
       )
     )
@@ -5178,7 +5178,7 @@
   (symbol (lib_id "Device:C") (at 208.915 264.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b43949c5-2154-4309-ad1c-df91a99d0a74)
-    (property "Reference" "C1409" (at 212.725 263.525 0)
+    (property "Reference" "C1411" (at 212.725 263.525 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 212.725 266.065 0)
@@ -5195,7 +5195,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "C1409") (unit 1)
+          (reference "C1411") (unit 1)
         )
       )
     )
@@ -5265,7 +5265,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01414") (unit 1)
+          (reference "#PWR01424") (unit 1)
         )
       )
     )
@@ -5401,7 +5401,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01417") (unit 1)
+          (reference "#PWR01430") (unit 1)
         )
       )
     )
@@ -5431,7 +5431,7 @@
       )
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "#PWR01416") (unit 1)
+          (reference "#PWR01431") (unit 1)
         )
       )
     )
@@ -5440,7 +5440,7 @@
   (symbol (lib_id "ETH1CDMM2:LT5400-9k-1k_Split") (at 261.62 186.055 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f5354ae6-1d2a-41c1-a73b-d17293299c38)
-    (property "Reference" "U1404" (at 267.97 185.42 0)
+    (property "Reference" "U1409" (at 267.97 185.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LT5400-8" (at 268.605 187.96 0)
@@ -5464,7 +5464,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "U1404") (unit 4)
+          (reference "U1409") (unit 4)
         )
       )
     )
@@ -5473,7 +5473,7 @@
   (symbol (lib_id "Device:C") (at 194.945 264.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f66807ed-97f3-4bf3-9354-1cda35cf4f4b)
-    (property "Reference" "C1408" (at 198.755 263.525 0)
+    (property "Reference" "C1410" (at 198.755 263.525 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 198.755 266.065 0)
@@ -5490,7 +5490,7 @@
     (instances
       (project "ETH1CDMM2"
         (path "/be7d1fbf-8f6a-4ef0-a932-f9076baf5f6b/84f2d89e-a4df-47cc-83c6-b21b3b35e42f"
-          (reference "C1408") (unit 1)
+          (reference "C1410") (unit 1)
         )
       )
     )
@@ -5505,7 +5505,7 @@
     (property "Value" "100k" (at 139.065 158.115 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 139.065 162.433 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 139.065 162.433 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 139.065 160.655 0)
